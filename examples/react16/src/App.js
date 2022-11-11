@@ -32,11 +32,6 @@ const RouteExample = () => {
 export default function App() {
   return (
     <div className="app-main">
-      <LibVersion />
-      <HelloModal />
-
-      <Divider />
-
       <RouteExample />
     </div>
   );
